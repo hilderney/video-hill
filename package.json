@@ -1,0 +1,22 @@
+{
+  "name": "video-hill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilderney/video-hill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilderney/video-hill/issues"
+  },
+  "homepage": "https://github.com/hilderney/video-hill#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
